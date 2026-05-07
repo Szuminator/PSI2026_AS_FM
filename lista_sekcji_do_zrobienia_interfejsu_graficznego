@@ -1,0 +1,122 @@
+1. Nawigacja / Header
+
+Podstawa każdego sklepu.
+
+Elementy:
+
+logo sklepu
+menu kategorii
+wyszukiwarka
+koszyk
+logowanie / konto
+wishlista / ulubione
+pasek promocji („Darmowa dostawa od 200 zł”)
+
+Kategorie mogą być np.:
+
+Kostki
+Podręczniki
+Figurki
+Akcesoria MG
+Mapy i maty
+Dice traye
+Organizery
+Gadżety fantasy
+2. Strona główna (Homepage)
+
+Tu budujesz klimat RPG.
+
+Warto zaprojektować:
+
+hero banner (duża grafika fantasy)
+sekcja bestsellerów
+nowości
+promocje
+polecane zestawy dla graczy
+„Produkty dla Mistrza Gry”
+newsletter
+opinie klientów
+
+Możesz zrobić styl:
+
+dark fantasy
+parchment / medieval
+tavern UI
+pixel fantasy
+nowoczesny gaming
+3. Lista produktów (Category Page)
+
+Bardzo ważna.
+
+Elementy:
+
+grid produktów
+filtry
+sortowanie
+paginacja / infinite scroll
+breadcrumbs
+quick add to cart
+
+Filtry:
+
+cena
+typ produktu
+system RPG (D&D, Pathfinder, Call of Cthulhu itd.)
+kolor kostek
+producent
+dostępność
+4. Karta produktu (Product Page)
+
+Najważniejszy ekran sklepu.
+
+Musi zawierać:
+
+zdjęcia produktu
+nazwa
+cena
+stan magazynowy
+wybór wariantów
+przycisk „Dodaj do koszyka”
+opis
+specyfikacja
+opinie
+podobne produkty
+
+Dodatkowo dla RPG:
+
+lore/opis klimatyczny
+kompatybilność z systemami
+zdjęcia „na stole podczas sesji”
+5. Koszyk
+
+Już wymieniłeś — konieczny.
+
+Elementy:
+
+lista produktów
+zmiana ilości
+usuwanie
+podsumowanie ceny
+kod rabatowy
+koszt dostawy
+CTA „Przejdź do płatności”
+6. Checkout / finalizacja zamówienia
+
+Często pomijane w projektach studenckich — a bardzo ważne.
+
+Ekrany:
+
+dane dostawy
+wybór kuriera
+płatność
+podsumowanie
+potwierdzenie zakupu
+7. Konto użytkownika
+
+Minimum:
+
+logowanie/rejestracja
+historia zamówień
+zapisane adresy
+wishlista
+ustawienia konta
